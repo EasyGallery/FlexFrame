@@ -4,4 +4,4 @@ A Flex/FlashDevelop project to load image from an AMF endpoint. It includes basi
 
 ##Quick Start
 
-Navigate to [binaries folder](/bin) and use the provided distribution files. You can also see the [Demo](https://github.com/EasyGallery/Demo) project to see a basic usage example.
+Navigate to [binaries folder](/bin) and use the provided distribution files. You can also go to the [Demo](https://github.com/EasyGallery/Demo) project to see a basic usage example.
